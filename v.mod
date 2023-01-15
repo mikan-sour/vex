@@ -1,7 +1,7 @@
 Module {
-    name: 'VEX',
-    description: 'Easy, Modular Web Framework for V.'
-    version: '0.3.5',
-    repo_url: 'https://github.com/nedpals/vex'
+    name: 'VEX-mikan',
+    description: 'Easy, Modular Web Framework for V. - forked by mikansour'
+    version: '0.1.0',
+    repo_url: 'https://github.com/mikansour/vex'
     deps: []
 }
